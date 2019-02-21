@@ -13,6 +13,9 @@ spring:
    server:
     git:
      uri: https://github.com/leninceiba/springCloudConfigServer
+     skipSslValidation: true
+     username: leninceiba
+     password: lGr146327.
  
  # Spring properties 
  profiles: 
