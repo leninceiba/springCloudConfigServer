@@ -1,5 +1,11 @@
 # HTTP Server
 server: 
+ application:
+  name: spring-cloud-netflix-eureka
+  
+info:
+ component: spring-cloud-netflix-eureka  
+ 
  port: 8761
  
 # Eureka Configuration Properties

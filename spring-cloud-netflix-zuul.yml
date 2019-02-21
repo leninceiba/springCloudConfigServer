@@ -1,11 +1,11 @@
 #Component Info
 info:
- component: Zuul-Server
+ component: spring-cloud-netflix-zuul
  
 #Spring Application Name 
 spring:
  application:
-  name: Zuul-Server 
+  name: spring-cloud-netflix-zuul
  
 #Server Port
 server:

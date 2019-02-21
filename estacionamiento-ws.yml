@@ -1,13 +1,13 @@
 #Application Name
 spring:
  application:
-  name: Estacionamiento-RestService
+  name: estacionamiento-ws
  main:
   allow-bean-definition-overriding: true  
  
 #Component Info 
 info:
- component: Estacionamiento-RestService
+ component: estacionamiento-ws
  
 #Port - If 0 get random port
 server: 

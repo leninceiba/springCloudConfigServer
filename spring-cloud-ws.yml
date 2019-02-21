@@ -1,11 +1,11 @@
 #Application Name
 spring:
  application:
-  name: Public-RestService
+  name: spring-cloud-ws
  
 #Component Info 
 info:
- component: Public-RestService
+ component: spring-cloud-ws
  
 #Port - If 0 get random port
 server: 
