@@ -1,10 +1,10 @@
 # HTTP Server
 server: 
  application:
-  name: cloud_eureka_server
+  name: cloud_eureka-server
   
 info:
- component: cloud_eureka_server
+ component: cloud_eureka-server
  
  port: 8761
  
