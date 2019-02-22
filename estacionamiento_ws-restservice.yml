@@ -11,7 +11,7 @@ info:
  
 #Port - If 0 get random port
 server: 
- port: 8080
+ port: 0
  
 #Eureka Instance ID
 eureka:
