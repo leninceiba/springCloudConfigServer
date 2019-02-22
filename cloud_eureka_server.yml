@@ -1,10 +1,10 @@
 # HTTP Server
 server: 
  application:
-  name: spring-cloud-netflix-eureka
+  name: cloud_eureka_server
   
 info:
- component: spring-cloud-netflix-eureka  
+ component: cloud_eureka_server
  
  port: 8761
  

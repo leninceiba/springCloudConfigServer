@@ -1,6 +1,6 @@
 # Component Info
 info:
- component: spring-cloud-config-server
+ component: cloud_config-server
  
 # HTTP Server
 server:

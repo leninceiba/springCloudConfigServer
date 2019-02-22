@@ -1,15 +1,17 @@
 #Application Name
 spring:
  application:
-  name: spring-cloud-ws
+  name: estacionamiento_ws-restservice
+ main:
+  allow-bean-definition-overriding: true  
  
 #Component Info 
 info:
- component: spring-cloud-ws
+ component: estacionamiento_ws-restservice
  
 #Port - If 0 get random port
 server: 
- port: 0
+ port: 8080
  
 #Eureka Instance ID
 eureka:
